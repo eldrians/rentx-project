@@ -1,0 +1,14 @@
+nambah tombol review di dashboard buyer(udah)
+fitur verifikasi upgrade buyer jdi seller(udah)
+review di detail properti belum jalan(udah)
+buat slug utk properti ,pas input lgsn generate slug(gifari)
+check route(gifari)
+rekomendasi di detail properti(udah) 
+rekomendasi di detail landing page(udah)
+filter di menu search(gifari)
+ngebuletin nilai koma rating 
+
+----------
+hilman
+flash message di dashboard buyer gk ilang ilang(udah)
+
